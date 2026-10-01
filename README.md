@@ -159,10 +159,6 @@ Contains the dataset used for analysis.
 
 Contains the Python script used for data cleaning and preparation.
 
-### SQL
-
-Contains SQL queries used for structured analysis of the email security dataset.
-
 ### EDA
 
 Contains the Jupyter Notebook used for exploratory data analysis.
