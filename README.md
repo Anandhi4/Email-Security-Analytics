@@ -177,4 +177,3 @@ This project demonstrates an end-to-end data analytics workflow involving:
 * Data visualization
 * Security-focused business analysis
 
-The project demonstrates practical experience with Python, Pandas, SQL, MySQL, Power BI, Power Query, DAX, data analysis, and data visualization.
