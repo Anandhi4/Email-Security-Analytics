@@ -4,7 +4,7 @@
 
 This project analyzes email security data to identify potential security threats, malicious email patterns, suspicious links, threat types, severity levels, and sender-domain activity.
 
-The project follows an end-to-end data analytics workflow using Python, SQL, Exploratory Data Analysis (EDA), and Power BI.
+The project follows an end-to-end data analytics workflow using Python, Exploratory Data Analysis (EDA), and Power BI.
 
 ## Objective
 
@@ -23,8 +23,6 @@ The project follows an end-to-end data analytics workflow using Python, SQL, Exp
 * Python
 * Pandas
 * Jupyter Notebook
-* SQL
-* MySQL
 * Power BI
 * Power Query
 * DAX
@@ -35,8 +33,6 @@ The project follows an end-to-end data analytics workflow using Python, SQL, Exp
 Raw Email Data
 ↓
 Data Cleaning & Preparation using Python
-↓
-SQL-Based Data Analysis
 ↓
 Exploratory Data Analysis using Jupyter Notebook
 ↓
