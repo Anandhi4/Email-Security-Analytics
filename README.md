@@ -172,7 +172,6 @@ Contains the final Power BI dashboard.
 This project demonstrates an end-to-end data analytics workflow involving:
 
 * Data cleaning and preparation
-* SQL-based analysis
 * Exploratory data analysis
 * Data transformation
 * Data modeling
